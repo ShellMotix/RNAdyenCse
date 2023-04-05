@@ -11,7 +11,7 @@
   "license": "MIT",
   "peerDependencies": {},
   "dependencies": {
-    "npm": "^6.14.7"
+    "npm": "^8.5.0"
   },
   "repository": {
     "type": "git",
